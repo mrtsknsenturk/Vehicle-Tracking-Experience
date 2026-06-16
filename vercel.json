@@ -1,5 +1,5 @@
 {
-  "buildCommand": "pnpm --filter @workspace/mascot-app run build && mkdir -p public && cp -r artifacts/mascot-app/dist/public/* public/",
+  "buildCommand": "pnpm --filter @workspace/mascot-app run build && node -e \"const fs=require('fs'),path=require('path');const src=path.join(process.cwd(),'artifacts/mascot-app/dist/public');const dst=path.join(process.cwd(),'public');if(!fs.existsSync(src)){console.error('ERROR: Source not found:',src);process.exit(1);}if(fs.existsSync(dst))fs.rmSync(dst,{recursive:true});fs.cpSync(src,dst,{recursive:true});console.log('✓ Build output copied to public');\"",
   "installCommand": "pnpm install --prod=false",
   "outputDirectory": "public",
   "env": {
