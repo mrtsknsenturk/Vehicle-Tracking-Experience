@@ -2,7 +2,6 @@
   "buildCommand": "pnpm --filter @workspace/mascot-app run build && node scripts/copy-build-output.js",
   "installCommand": "pnpm install --prod=false",
   "outputDirectory": "public",
-  "framework": "none",
   "env": {
     "PORT": "3000",
     "BASE_PATH": "/"
