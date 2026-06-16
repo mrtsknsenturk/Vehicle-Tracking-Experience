@@ -1,0 +1,10 @@
+{
+  "buildCommand": "pnpm --filter @workspace/mascot-app run build",
+  "installCommand": "pnpm install --prod=false",
+  "outputDirectory": "artifacts/mascot-app/dist/public",
+  "framework": "vite",
+  "env": {
+    "PORT": "3000",
+    "BASE_PATH": "/"
+  }
+}
