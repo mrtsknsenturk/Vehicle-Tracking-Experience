@@ -1,8 +1,14 @@
 import fs from "fs";
 import path from "path";
+import { fileURLToPath } from "url";
 
-const source = path.resolve(process.cwd(), "artifacts/mascot-app/dist/public");
-const destination = path.resolve(process.cwd(), "public");
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const rootDir = path.resolve(__dirname, "..");
+const source = path.resolve(rootDir, "artifacts/mascot-app/dist/public");
+const destination = path.resolve(rootDir, "public");
+
+console.log(`Source: ${source}`);
+console.log(`Destination: ${destination}`);
 
 function copyDir(src, dest) {
   if (!fs.existsSync(src)) {

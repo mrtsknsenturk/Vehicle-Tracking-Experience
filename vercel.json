@@ -1,5 +1,5 @@
 {
-  "buildCommand": "pnpm --filter @workspace/mascot-app run build && node /vercel/path0/scripts/copy-build-output.js",
+  "buildCommand": "pnpm --filter @workspace/mascot-app run build && node scripts/copy-build-output.js",
   "installCommand": "pnpm install --prod=false",
   "outputDirectory": "public",
   "env": {
