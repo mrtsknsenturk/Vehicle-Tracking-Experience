@@ -1,0 +1,270 @@
+# TASK 2 – BUILD THE COMPLETE INTERACTIVE EXPERIENCE USING THE EXISTING MASCOT
+
+The mascot already exists.
+
+Do NOT redesign the mascot.
+
+Do NOT generate a new character.
+
+Use the existing mascot as the central guide throughout the entire experience.
+
+The mascot must appear in every step and every interaction.
+
+---
+
+# PROJECT GOAL
+
+Create a premium interactive onboarding experience for a vehicle tracking and fleet management company.
+
+This should feel like:
+
+* Duolingo onboarding
+* Apple product experience
+* Stripe onboarding
+* Modern SaaS product tour
+
+It must NOT feel like a form.
+
+Users should feel like they are having an interactive conversation with the mascot.
+
+---
+
+# USER EXPERIENCE RULES
+
+Only one question is visible at a time.
+
+No long forms.
+
+No multiple sections.
+
+No overwhelming UI.
+
+Each screen should focus on a single decision.
+
+Large buttons.
+
+Large typography.
+
+Generous spacing.
+
+Smooth transitions.
+
+---
+
+# LANDING EXPERIENCE
+
+Page loads.
+
+Mascot enters the screen.
+
+Mascot waves.
+
+Mascot smiles.
+
+Speech bubble appears.
+
+"Merhaba 👋"
+
+"Size en uygun araç takip çözümünü birlikte bulacağız."
+
+Continue button:
+
+"Hadi Başlayalım"
+
+---
+
+# PROGRESS SYSTEM
+
+Display a premium progress bar.
+
+Progress updates after every answer.
+
+Examples:
+
+10%
+20%
+40%
+60%
+80%
+100%
+
+Progress animation must be smooth.
+
+---
+
+# QUESTION FLOW
+
+STEP 1
+
+"Sizi daha iyi tanıyalım."
+
+Options:
+
+🏢 Kurumsal
+
+🚗 Bireysel
+
+---
+
+IF CORPORATE
+
+Mascot changes into Corporate Mode.
+
+Small tie appears.
+
+Small jacket appears.
+
+Mascot says:
+
+"Harika. Filonuzu tanıyalım."
+
+Questions:
+
+* Kaç aracınız var?
+* Hangi sektördesiniz?
+* Araçlar hangi şehirlerde?
+* Yakıt takibi ister misiniz?
+* Sürücü performans raporları ister misiniz?
+* Canlı konum takibi ister misiniz?
+
+---
+
+IF INDIVIDUAL
+
+Mascot changes into Casual Mode.
+
+Mascot says:
+
+"Mükemmel. Aracınız için en uygun çözümü bulalım."
+
+Questions:
+
+* Araç tipi nedir?
+* Kaç araç için takip istiyorsunuz?
+* Mobil uygulama kullanır mısınız?
+* Motor blokaj özelliği ister misiniz?
+* Anlık bildirim almak ister misiniz?
+
+---
+
+# MASCOT REACTIONS
+
+Every answer triggers a unique mascot reaction.
+
+Examples:
+
+Large fleet:
+Mascot becomes excited.
+
+Small fleet:
+Mascot gives thumbs up.
+
+Premium option:
+Mascot celebrates.
+
+Basic option:
+Mascot nods confidently.
+
+Every answer should feel acknowledged.
+
+---
+
+# MICRO ANIMATIONS
+
+Every transition should include:
+
+* fade
+* slide
+* scale
+* motion blur
+* bounce
+
+No sudden changes.
+
+Everything should feel premium.
+
+---
+
+# ANALYSIS SCREEN
+
+After the final answer:
+
+Mascot sits down and thinks.
+
+Progress reaches 100%.
+
+Mascot says:
+
+"Mükemmel."
+
+"Şimdi sizin için en uygun çözümü hazırlıyorum."
+
+Display animated loading sequence.
+
+Duration:
+
+2–4 seconds.
+
+---
+
+# RECOMMENDATION SCREEN
+
+Mascot presents a solution.
+
+Premium glass card appears.
+
+Contents:
+
+* Recommended package
+* Device type
+* Installation cost
+* Monthly service cost
+* Included features
+* Mobile app support
+* GPS tracking features
+
+Mascot explains why this package was selected.
+
+---
+
+# LEAD CAPTURE
+
+Only after value has been shown.
+
+Mascot says:
+
+"Bu çözümü size göndermemi ister misiniz?"
+
+Fields:
+
+* Ad Soyad
+* Telefon
+* E-posta
+* Firma Adı (if corporate)
+
+CTA:
+
+🚀 Teklifimi Oluştur
+
+---
+
+# DESIGN SYSTEM
+
+Style:
+
+* Apple quality
+* Duolingo friendliness
+* Stripe cleanliness
+* Linear polish
+
+Use:
+
+* Glassmorphism
+* Soft shadows
+* Large rounded corners
+* Smooth gradients
+* Modern typography
+
+The mascot must remain the hero of every screen.
+
+The user should remember the mascot more than the form itself.
