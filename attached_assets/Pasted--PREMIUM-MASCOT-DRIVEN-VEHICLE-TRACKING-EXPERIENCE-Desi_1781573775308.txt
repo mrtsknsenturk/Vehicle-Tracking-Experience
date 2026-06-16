@@ -1,0 +1,223 @@
+# PREMIUM MASCOT-DRIVEN VEHICLE TRACKING EXPERIENCE
+
+Design an unforgettable animated mascot character that becomes the face of a vehicle tracking and fleet management company.
+
+The mascot is the most important element of the entire experience.
+
+Users should remember the mascot long after leaving the website.
+
+Do NOT create a realistic human.
+
+Do NOT create an AI assistant.
+
+Do NOT create a chatbot avatar.
+
+Create a lovable brand mascot.
+
+---
+
+# CHARACTER CONCEPT
+
+The mascot represents:
+
+* Navigation
+* Routes
+* Tracking
+* Discovery
+* Guidance
+* Smart movement
+
+without using obvious GPS pins or map icons.
+
+The mascot should feel original and unique.
+
+Think about how Duo represents language learning without literally being a dictionary.
+
+Create that same level of brand identity.
+
+---
+
+# APPEARANCE
+
+The mascot should have:
+
+* Head
+* Arms
+* Hands
+* Legs
+* Feet
+* Large expressive eyes
+* Strong silhouette
+* Cartoon proportions
+* Premium design quality
+
+The mascot must be recognizable even as a tiny icon.
+
+The design should work equally well:
+
+* On website
+* In mobile app
+* In marketing materials
+* In social media posts
+* In onboarding screens
+
+---
+
+# PERSONALITY
+
+The mascot is:
+
+* Curious
+* Friendly
+* Helpful
+* Smart
+* Energetic
+* Slightly funny
+* Encouraging
+
+Never sarcastic.
+
+Never childish.
+
+Never corporate.
+
+Users should enjoy seeing it.
+
+---
+
+# ANIMATION SYSTEM
+
+The mascot is alive.
+
+It never stands completely still.
+
+Idle animations include:
+
+* blinking
+* breathing
+* looking around
+* smiling
+* stretching
+* waving
+* jumping
+* thinking
+
+The mascot should feel playful and energetic.
+
+Every animation should be smooth and charming.
+
+---
+
+# WEBSITE EXPERIENCE
+
+The mascot is the central focus of the landing page.
+
+When the page loads:
+
+The mascot runs into the screen.
+
+Stops.
+
+Looks around.
+
+Notices the visitor.
+
+Waves enthusiastically.
+
+Smiles.
+
+Then says:
+
+"Merhaba 👋"
+
+"Size en uygun araç takip çözümünü birlikte bulalım."
+
+The mascot should feel like a guide starting an adventure.
+
+Not a salesperson.
+
+Not a support representative.
+
+A trusted companion.
+
+---
+
+# CHARACTER TRANSFORMATIONS
+
+The mascot can change appearance depending on the user's answers.
+
+Corporate Mode:
+
+* Small jacket
+* Tiny tie
+* Professional posture
+
+Individual Mode:
+
+* Casual outfit
+* Relaxed posture
+* Friendly attitude
+
+Transformations should be fun and memorable.
+
+The mascot should physically change on screen.
+
+---
+
+# REACTIONS
+
+The mascot reacts to every answer.
+
+Examples:
+
+Large fleet selected:
+
+The mascot becomes excited.
+
+Pulls out a giant route map.
+
+Looks impressed.
+
+---
+
+Small fleet selected:
+
+The mascot gives a confident thumbs up.
+
+---
+
+Correct choice:
+
+Celebration animation.
+
+---
+
+Confusing answer:
+
+Thinking animation.
+
+---
+
+# VISUAL STYLE
+
+Quality target:
+
+Duolingo mascot quality.
+
+Discord mascot quality.
+
+Modern SaaS mascot quality.
+
+Premium startup illustration quality.
+
+Rounded shapes.
+
+Clean geometry.
+
+Animation-first design.
+
+Highly expressive face.
+
+Instantly recognizable silhouette.
+
+The mascot should feel capable of becoming a billion-dollar brand icon.
